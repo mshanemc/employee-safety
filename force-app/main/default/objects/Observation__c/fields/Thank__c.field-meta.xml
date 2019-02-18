@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField>
-    <label>Did you thank the individual for their cooperation?</label>
+    <label>Did you thank the individual?</label>
     <type>Checkbox</type>
     <fullName>Thank__c</fullName>
     <defaultValue>false</defaultValue>
