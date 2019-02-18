@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <label>Was a reasonable alternative discussed?</label>
+    <type>Checkbox</type>
+    <fullName>Alternative_Discussed__c</fullName>
+    <defaultValue>false</defaultValue>
+</CustomField>

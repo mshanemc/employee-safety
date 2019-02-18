@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <label>Did you stop work?</label>
+    <type>Checkbox</type>
+    <fullName>Stop_Work__c</fullName>
+    <defaultValue>false</defaultValue>
+</CustomField>

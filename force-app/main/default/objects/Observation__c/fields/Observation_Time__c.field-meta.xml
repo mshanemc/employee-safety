@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <label>Observation Time</label>
+    <type>DateTime</type>
+    <fullName>Observation_Time__c</fullName>
+</CustomField>

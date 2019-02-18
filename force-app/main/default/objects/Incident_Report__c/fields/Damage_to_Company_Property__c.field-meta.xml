@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField>
+    <label>Damage to Company Property</label>
+    <type>Checkbox</type>
+    <fullName>Damage_to_Company_Property__c</fullName>
+    <defaultValue>false</defaultValue>
+</CustomField>
