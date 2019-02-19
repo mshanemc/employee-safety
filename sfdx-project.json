@@ -5,13 +5,14 @@
             "default": true,
             "package": "safety",
             "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionNumber": "0.2.0.NEXT"
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "45.0",
     "packageAliases": {
-        "safety": "0Ho6A000000k9dYSAQ"
+        "safety": "0Ho6A000000k9dYSAQ",
+        "safety@0.2.0-1": "04t6A000002zgIvQAI"
     }
 }
