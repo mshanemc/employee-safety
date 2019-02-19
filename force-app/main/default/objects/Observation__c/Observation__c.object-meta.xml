@@ -16,4 +16,5 @@
     <enableActivities>true</enableActivities>
     <enableFeeds>true</enableFeeds>
     <enableSearch>true</enableSearch>
+    <enableReports>true</enableReports>
 </CustomObject>
