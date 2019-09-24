@@ -7,11 +7,13 @@
         <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
     </brand>
     <description>Incident Reporting and Safety Observations</description>
+    <formFactors>Small</formFactors>
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Safety</label>
     <navType>Standard</navType>
+    <setupExperience>all</setupExperience>
     <tabs>Observation__c</tabs>
     <tabs>Incident_Report__c</tabs>
     <tabs>standard-report</tabs>
